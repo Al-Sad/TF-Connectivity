@@ -2,7 +2,7 @@
 A time-frequency (TF) signal processing framework for constructing functional brain networks (FBNs) from multichannel electroencephalogram (EEG) recordings. The material in this repository is provided to supplement the following publication:
 Al-Sa'd, M. and Boashash, B., "Time-Frequency Functional Brain Networks: Application to Newborn Seizure Analysis", *IntechOpen*, (2025), https://doi.org/10.5772/intechopen.1011395
 
-The MATLAB scripts, functions, and data listed in this repository are used to produce results, and supporting figures illustrated in the publication.
+The MATLAB scripts and functions in this repository are used to produce results, and supporting figures illustrated in the publication.
 
 ## Demo Scripts:
 The developed TF-Connectivity MATLAB package contains the following demo scripts within its directory:
