@@ -1,2 +1,1 @@
-# TF-Connectivity
-The time-frequency functional brain connectivity MATLAB package will be available soon!
+This folder contains the publication figures in PDF format from the demo scripts.
