@@ -1,2 +1,1 @@
-# TF-Connectivity
-The time-frequency functional brain connectivity MATLAB package will be available soon!
+This folder contains the tempo-spectral FBN for each subject using the conventional and proposed TF connectivity measures.
