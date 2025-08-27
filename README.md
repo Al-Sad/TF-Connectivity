@@ -1,7 +1,8 @@
 # TF-Connectivity: A Time-Frequency Functional Connectivity MATLAB Package 
 A time-frequency (TF) signal processing framework for constructing functional brain networks (FBNs) from multichannel electroencephalogram (EEG) recordings. The material in this repository is provided to supplement the following publication:
-Al-Sa'd, M. and Boashash, B., "Time-Frequency Functional Brain Networks: Application to Newborn Seizure Analysis", *IntechOpen*, (2025), https://doi.org/10.5772/intechopen.1011395
-![plot](./Results/comparison_time frequency.pdf)
+Al-Sa'd, M. and Boashash, B., "Time-Frequency Functional Brain Networks: Application to Newborn Seizure Analysis", *IntechOpen*, (2025), https://doi.org/10.5772/intechopen.1011395.
+
+![plot](./comparison_time frequency.tif)
 
 The MATLAB scripts and functions in this repository are used to produce results, and supporting figures illustrated in the publication.
 
